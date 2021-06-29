@@ -1,0 +1,5 @@
+{
+    "mailserver": {
+        "host": "dev-mailserver.company"
+    }
+}
